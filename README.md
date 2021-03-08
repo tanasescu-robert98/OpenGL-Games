@@ -2,6 +2,12 @@
 
 ## Proiecte la Elemente de Grafica pe Calculator ##
 
+Descriere pe scurt : 
+
+Proiect 1 - Primul meu joc 2D făcut în OpenGL în care jucătorul preia rolul unui arcaș ce trebuie să se confrunte cu o multitudine de obstacole și să învingă personajul negativ prin utilizarea unui simplu arc cu săgeți.
+
+
+
 *  Cale catre fisierul din Proiect1 (**2D Point & Shoot**) cu implementarea jocului 
 
 egc/336CC_Tanasescu_Robert_Tema1/Framework-EGC-master/Source/Laboratoare/Tema1/Tema1.cpp
