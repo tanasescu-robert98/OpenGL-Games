@@ -1,4 +1,4 @@
-# Autor : Tanasescu Robert-Andrei #
+# Autor : Tănăsescu Robert-Andrei #
 
 ## Proiecte la Elemente de Grafica pe Calculator ##
 
