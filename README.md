@@ -10,7 +10,7 @@ Proiect 1 - Primul meu joc 2D făcut în OpenGL în care jucătorul preia rolul 
 
 Proiect 2 - Simple Endless Runner este primul meu joc 3D realizat in OpenGL, unde jucatorul preia rolul unui bile si scopul este sa ajunga cat mai departe in nivel folosind actiunile "saritura" , "mutare stanga" si "mutare dreapta".
 
-Proiect 3 - Endless Runner in Egypt este o varianta imbunatatita a primului meu joc 3D, ce reprezinta un endless runner in care jucatorul se confrunta cu peripetiile ce pot aparea in desert. Spre deosebire de Simple Endless Runner, in aceasta versiune este implementata texturarea obiectelor, iluminarea pe o suprafata si adaugare de noi obiecte create special pentru decor.
+Proiect 3 - Endless Runner in Egypt este o varianta imbunatatita a primului meu joc 3D, ce reprezinta un endless runner in care jucatorul se confrunta cu peripetiile ce pot aparea in desert. Spre deosebire de Simple Endless Runner, in aceasta versiune este implementata texturarea obiectelor, iluminarea pe o suprafata si adaugarea de noi obiecte create special pentru decor.
 
 *  Cale catre fisierul din Proiect1 (**2D Point & Shoot**) cu implementarea jocului 
 
