@@ -2,6 +2,12 @@
 
 ## Proiecte la Elemente de Grafica pe Calculator ##
 
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
+
 Markup : *  Cale catre fisierul din Proiect1 cu implementarea jocului 
 
 egc/336CC_Tanasescu_Robert_Tema1/Framework-EGC-master/Source/Laboratoare/Tema1/Tema1.cpp
