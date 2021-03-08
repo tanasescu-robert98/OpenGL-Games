@@ -2,7 +2,7 @@
 
 ## Proiecte la Elemente de Grafica pe Calculator ##
 
-*  Cale catre fisierul din Proiect1 (2D Point & Shoot) cu implementarea jocului 
+*  Cale catre fisierul din Proiect1 (**2D Point & Shoot**) cu implementarea jocului 
 
 egc/336CC_Tanasescu_Robert_Tema1/Framework-EGC-master/Source/Laboratoare/Tema1/Tema1.cpp
 
