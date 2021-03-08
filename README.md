@@ -1,4 +1,6 @@
-# Proiecte la Elemente de Grafica pe Calculator - Tanasescu Robert-Andrei
+# Autor : Tanasescu Robert-Andrei
+
+# Proiecte la Elemente de Grafica pe Calculator
 Elemente de Grafica pe Calculator
 
 # Cale catre fisierul din Proiect1 cu implementarea jocului 
